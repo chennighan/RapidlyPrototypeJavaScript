@@ -27,6 +27,7 @@ $(function() {
 
   // populate the data table with JSON data
   function populateDataTable(data) {
+    console.log("populating data table...");
     // clear the table before populating it with more data
     $("#example").DataTable().clear();
     var length = Object.keys(data.customers).length;
