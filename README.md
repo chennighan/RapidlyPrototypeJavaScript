@@ -12,8 +12,8 @@ Lesson 2 - Quick Overview of Features
 
 Lesson 3 - Where to find this source and first feature request
 --------------------------------------------------------------
-http://jsfiddle.net/gh/get/library/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson3/
+http://jsfiddle.net/gh/get/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson3/
 
 Lesson 4 - Dynamically Populate jQuery DataTable with JSON data on AJAX request
 -------------------------------------------------------------------------------
-http://jsfiddle.net/gh/get/library/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson4/
+http://jsfiddle.net/gh/get/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson4/
