@@ -1,0 +1,10 @@
+---
+ name: Homepage Slider
+ description: First Feature Request! We are tasked with creating a homepage slider with arrows for navigation and captions on top of the slides
+ authors:
+   - Chris Hennighan
+
+resources:
+   - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+   - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
+...
