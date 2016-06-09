@@ -8,4 +8,4 @@ Lesson 2 - Quick Overview of Features
 
 Lesson 3 - Where to find this source and first feature request
 --------------------------------------------------------------
-http://jsfiddle.net/gh/get/library/jquery/2.2.3/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson1/
+http://jsfiddle.net/gh/get/library/jquery/2.2.3/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson3/
