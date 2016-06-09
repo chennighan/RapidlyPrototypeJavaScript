@@ -4,7 +4,7 @@ Udemy Course Source Code for demos on JSFiddle for Rapidly Prototyping JavaScrip
 ## Navigate to example finished code lesson by lesson with these links:
 Lesson 1 - Hello World
 ----------------------
-http://jsfiddle.net/gh/get/library/pure/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson1/
+<a href="http://jsfiddle.net/gh/get/library/pure/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson1/" target="blank">Lesson 1 JSFiddle</a>
 
 Lesson 2 - Quick Overview of Features
 -------------------------------------
@@ -12,8 +12,8 @@ Lesson 2 - Quick Overview of Features
 
 Lesson 3 - Where to find this source and first feature request
 --------------------------------------------------------------
-http://jsfiddle.net/gh/get/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson3/
+<a href="http://jsfiddle.net/gh/get/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson3/" target="blank">Lesson 2 JSFiddle</a>
 
 Lesson 4 - Dynamically Populate jQuery DataTable with JSON data on AJAX request
 -------------------------------------------------------------------------------
-http://jsfiddle.net/gh/get/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson4/
+<a href="http://jsfiddle.net/gh/get/jquery/2.2/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson4/" target="blank">Lesson 4 JSFiddle</a>
