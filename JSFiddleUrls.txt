@@ -1,0 +1,3 @@
+Lesson 1 - Hello World
+----------------------
+http://jsfiddle.net/gh/get/library/pure/chennighan/RapidlyPrototypeJavaScript/tree/master/lesson1/
